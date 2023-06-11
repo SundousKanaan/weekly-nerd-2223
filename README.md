@@ -100,7 +100,7 @@ Workshops, praatjes en lezingen van bedrijven en designers over het vakgebied. N
         </td>
     </tr>
         <tr>
-        <td>--</td>
+        <td>Chanel Mepschen</td>
         <td>31 mei / 16:00 - 17:00</td>
         <td>
             <details>
