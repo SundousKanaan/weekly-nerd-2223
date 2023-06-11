@@ -67,6 +67,32 @@ io.on('connection', (socket) => {
   });
 });
 ```
+## Hoe wordt de client side gekoppeld met de server side?
+
+1. In de client side maken we de interactie key die moet werken om het server side event te actieveren bijvoorbeeld een knop.
+<br> we kunnen ook data naar de andere gebruikers sturen
+
+```js
+const button = document.querySelector("#button");
+
+button.addEventListener("click" , () => {
+  socket.emit('check', {message: "Hi there"});
+})
+```
+2. Dan maken we de server side event die moet onze message naar ale gebruikers sturen
+```js
+
+```
+3. Daarna maken we de socket event in de client side en die event gaat de data uit de server halen voor de gebruikers
+```js
+
+```
+
+4. Nu alle gebruikers moeten in de console dit zien als 1 gebruiker de button gedrukd
+```js
+
+```
+
 
 ## Other features
 wanneer wordt socket.io gekoppeld met verschillende API, wordt zijn features groeter zoals:
