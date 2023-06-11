@@ -76,23 +76,30 @@ io.on('connection', (socket) => {
 const button = document.querySelector("#button");
 
 button.addEventListener("click" , () => {
-  socket.emit('check', {message: "Hi there"});
+  socket.emit('Check', {message: "Hi there"});
 })
 ```
 2. Dan maken we de server side event die moet onze message naar ale gebruikers sturen
 ```js
-
+io.on('connection', (socket) => {
+  socket.on('Check', (message) => {
+  io.emit('Check', message);
+  });
+});
 ```
 3. Daarna maken we de socket event in de client side en die event gaat de data uit de server halen voor de gebruikers
 ```js
-
+socket.on('Check', (message) => {
+console.log("The message:", message)
+})
 ```
 
 4. Nu alle gebruikers moeten in de console dit zien als 1 gebruiker de button gedrukd
 ```js
-
+The message:Hi there
 ```
 
+5. Nu kunnen we beginnen met het bouwen van een eenvoudige chat voor het uitwisselen van tekst berichten.
 
 ## Other features
 wanneer wordt socket.io gekoppeld met verschillende API, wordt zijn features groeter zoals:
