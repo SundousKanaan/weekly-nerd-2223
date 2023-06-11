@@ -108,7 +108,6 @@ Workshops, praatjes en lezingen van bedrijven en designers over het vakgebied. N
             </details>
         </td>
     </tr>
-    
     <tr>
         <td>Pre cssday</td>
         <td>31 mei / 16:00 - 17:00</td>
