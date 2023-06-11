@@ -117,6 +117,13 @@ Workshops, praatjes en lezingen van bedrijven en designers over het vakgebied. N
             </details>
         </td>
     </tr>
+        <tr>
+        <td>Socket.io</td>
+        <td></td>
+        <td>
+            <a href="./Socket.io.md">Artikle</a>
+        </td>
+    </tr>
 </table>
 
 
