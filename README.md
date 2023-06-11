@@ -87,7 +87,7 @@ Workshops, praatjes en lezingen van bedrijven en designers over het vakgebied. N
         <td>NXT Museum</td>
         <td>15 mei / vanaf 13:00</td>
         <td>
-            <a href="">Artikle</a>
+            <a href="./NxT-Museum.md">Artikle</a>
         </td>
     </tr>
     <tr>
