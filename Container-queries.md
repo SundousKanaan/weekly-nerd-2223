@@ -52,7 +52,12 @@ Daarna bouwen we de container query met de nieuwe stijlen in.Het is niet nodig o
    - [website door Håvard](https://lynnandtonic.com/)
       - [Håvard on twitter](https://twitter.com/brynjulfs1?t=d3yxkNRDwWa_XyZ4YzsUVuAxEVzbWHctaOJiyDEYiG8&s=09)
 
+# Ondersteuning voor browsers
+![image](https://github.com/SundousKanaan/weekly-nerd-2223/assets/94317411/40db5d29-0c3c-4563-bdc1-d4edea13ac55)
+
+
 # Bronnen
    - https://blog.logrocket.com/css-container-queries-guide/#:~:text=CSS%20container%20queries%20allow%20us,the%20style%20to%20an%20element.
    - https://web.dev/cq-stable/
    - https://developer.mozilla.org/en-US/docs/Web/CSS/container-type
+   - https://caniuse.com/?search=Container%20queries
