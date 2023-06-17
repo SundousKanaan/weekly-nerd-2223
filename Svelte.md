@@ -72,6 +72,13 @@ Een tag in kleine letters, zoals ```<div>```, geeft een regulier HTML-element aa
 # Note
 Als u problemen ondervindt bij het niet herkennen van de variabele die in het script wordt genoemd, dan raad ik u aan om TypeScript te gebruiken om het probleem op te lossen.
 
+# Voordelen van Svelte ten opzichte van andere frameworks
+- Verbeterde prestaties door het genereren van optimale, framework-vrije JavaScript-code tijdens het compilatieproces.
+- Efficiënt gebruik van systeembronnen door het ontbreken van een virtuele DOM.
+- Compacte bestandsgrootte van Svelte-applicaties.
+- Eenvoudige en intuïtieve syntaxis voor het maken van componenten.
+- Goede TypeScript-ondersteuning.
+
 # Voorbeeld
 [Meesterproef-2023](https://github.com/DutchEllie/meesterproef-2223)
 
