@@ -126,6 +126,13 @@ Workshops, praatjes en lezingen van bedrijven en designers over het vakgebied. N
     </tr>
         </tr>
     <tr>
+        <td>Svelte</td>
+        <td></td>
+        <td>
+            <a href="./Svelte.md">Artikle</a>
+        </td>
+    </tr>
+    <tr>
         <td></td>
         <td></td>
         <td>
