@@ -1,4 +1,7 @@
-# Wat is Socket.IO?
+# Intro
+In dit korte artikel zullen we de basisprincipes van Socket.io bespreken. We zullen kijken naar hoe we Socket.io kunnen gebruiken en welke functionaliteiten het biedt.
+
+# Wat is Socket.io?
 Socket.IO is een bibliotheek die low-latency, bidirectionele en op gebeurtenissen gebaseerde communicatie tussen een client en een server mogelijk maakt.
 
 Socket.io maakt directe gegevensuitwisseling mogelijk tussen server en client. Het wordt gebruikt voor het bouwen van websites met realtime functionaliteiten, zoals één-op-één of groepschats. Met Him kunnen gebruikers real-time updates ontvangen en verzenden, wat zorgt voor een interactieve gebruikerservaring. Het maakt ook synchronisatie van gegevens tussen verschillende apparaten mogelijk. Het opent de deur naar diverse mogelijkheden voor realtime gegevensuitwisseling op het web.
